@@ -9,6 +9,7 @@ public class GitPracticeTest {
 	{
 		
 		System.out.println("insde user 1 first comit ");
+		System.out.println("insde user 2 first comit");
 	}
 
 }
